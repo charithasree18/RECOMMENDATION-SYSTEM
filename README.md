@@ -23,3 +23,7 @@ The recommendation system is trained using SVD, a popular matrix factorization m
 This task is typically implemented in Python environments like **Jupyter Notebook**, **VS Code**, or **PyCharm**, which offer smooth integration with data analysis and machine learning libraries. Jupyter Notebook, in particular, is favored for its interactive features, making it easy to test, visualize, and debug the model.
 
 The recommendation system built in this task has broad applicability. For instance, it could be deployed on platforms like **Goodreads** or **Amazon** to recommend books to users based on their historical preferences. The underlying techniques are not limited to books; they can be extended to movies, music, or even product recommendations in e-commerce platforms. Systems like **Netflix**, **Spotify**, and **YouTube** utilize similar algorithms to provide personalized content to users, enhancing user experience and boosting platform engagement. Overall, this task demonstrates the real-world application of collaborative filtering-based recommendation systems and their significance in driving personalization in various industries.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/82a1fdbe-f911-4b2d-ad2b-562ad72452e5)
